@@ -24,10 +24,10 @@ Phases:
 
 | Folder | Description |
 |--------|--------------|
-| `incident_playbooks/` | Step-by-step guides for responding to different types of incidents |
-| `templates/` | Reusable forms and report templates |
-| `scripts/` | Example automation or log analysis scripts |
-| `case_studies/` | Simulated incidents showing end-to-end response workflow |
+| [`incident_playbooks/`](incident_playbooks/) | Step-by-step guides for responding to different types of incidents |
+| [`templates/`](templates/)| Reusable forms and report templates |
+| [`scripts/`](scripts/) | Example automation or log analysis scripts |
+| [`case_studies/`](case_studies/) | Simulated incidents showing end-to-end response workflow |
 
 ---
 
