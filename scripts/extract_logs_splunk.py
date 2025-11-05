@@ -9,7 +9,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning) # Disable SSL warnings for testing
 
 # --- Configuration ---
-# Replace with your actual Splunk details and API token
+# This would be replaced with the actual Splunk details and API token
 SPLUNK_URL = "https://splunk.corp.example.com:8089"
 SPLUNK_API_TOKEN = "Bearer YOUR_SECURE_API_TOKEN_HERE" 
 
