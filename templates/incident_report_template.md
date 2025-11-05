@@ -8,7 +8,7 @@
 | **IR ID Number** | [e.g., IR-2025-01-23-0042] |
 | **Date/Time Detected** | [YYYY-MM-DD HH:MM UTC] |
 | **Date/Time Closed** | [YYYY-MM-DD HH:MM UTC] |
-| **Security Analyst Lead** | [Your Name (Toluwanimi Oladele-Ajose)] |
+| **Security Analyst Lead** | [(Toluwanimi Oladele-Ajose)] |
 | **Severity (Initial/Final)** | [e.g., P2/P3 - High/Medium] |
 | **Incident Type** | [e.g., Credential Compromise, Malware Outbreak, Data Exfiltration] |
 | **NIST Phase Closed In** | [e.g., 4. Post-Incident Activity] |
