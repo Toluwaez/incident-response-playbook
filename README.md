@@ -54,4 +54,4 @@ Phases:
 ## Author
 **Toluwanimi Oladele-Ajose**  
 Security Operations & Threat Analyst  
-[LinkedIn](https://linkedin.com/in/](https://www.linkedin.com/in/toluwanimi-oladele-ajose/)) • [GitHub](https://github.com/Toluwaez/)
+[LinkedIn](https://www.linkedin.com/in/toluwanimi-oladele-ajose/) • [GitHub](https://github.com/Toluwaez/)
